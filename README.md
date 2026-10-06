@@ -2,11 +2,7 @@
 
 <div align="center">
 
-💫 Blending Creativity and Code | Inspired by AI & Web Technologies
-
-🔭 I’m currently working on **Donation Contract**
-<br>
-🌱 I’m currently learning **Rust**
+💫 Computer Engineering graduate interested in software development.
 
 </div>
 
@@ -16,10 +12,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/elifsudeunal" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  
-  <a href="mailto:elifsudeunal6@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
